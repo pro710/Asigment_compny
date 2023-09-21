@@ -1,0 +1,59 @@
+.discover-our {
+  margin: 0;
+}
+.discover-our-new-container1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.discover-our-new-container {
+  position: relative;
+  line-height: 70px;
+  display: flex;
+  align-items: center;
+  width: 444.8px;
+  height: 126px;
+  flex-shrink: 0;
+}
+.heading-22 {
+  width: 500px;
+  height: 140px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.curabitur-arcu-erat-container {
+  position: absolute;
+  top: -1px;
+  left: 14.44px;
+  line-height: 29.71px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  width: 471.87px;
+  height: 59.7px;
+}
+.divelementor-widget-container5 {
+  position: relative;
+  width: 500px;
+  height: 59.41px;
+  font-size: var(--font-size-base);
+  color: var(--color-dimgray);
+  font-family: var(--font-cairo);
+}
+.section7 {
+  width: 500px;
+  height: 219.41px;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-0) var(--padding-0) 0.000003814697265625px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+  z-index: 2;
+  text-align: center;
+  font-size: var(--font-size-37xl);
+  color: var(--color-darkslategray-100);
+  font-family: var(--font-bungee);
+}

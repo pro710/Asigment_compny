@@ -1,0 +1,173 @@
+.heading-5 {
+  position: relative;
+  font-size: var(--font-size-7xl);
+  line-height: 31.2px;
+  font-family: var(--font-bungee);
+  color: var(--color-darkslategray-100);
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 342.78px;
+  height: 26px;
+  flex-shrink: 0;
+}
+.introducing {
+  margin: 0;
+}
+.introducing-new-premium-container1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.introducing-new-premium-container {
+  position: relative;
+  font-size: var(--font-size-56xl);
+  line-height: 90px;
+  font-family: var(--font-bungee);
+  color: var(--color-darkslategray-100);
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 575.84px;
+  height: 256px;
+  flex-shrink: 0;
+}
+.frame,
+.heading-1 {
+  width: 600px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.heading-1 {
+  height: 270px;
+  justify-content: center;
+}
+.frame {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  overflow: hidden;
+  justify-content: flex-start;
+  gap: var(--gap-4xl);
+}
+.lorem-ipsum-dolor-container2 {
+  position: absolute;
+  top: -1px;
+  left: 0;
+  line-height: 29.71px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  width: 561.11px;
+  height: 89.41px;
+}
+.divelementor-widget-container1,
+.host-a-party {
+  position: relative;
+  width: 600px;
+  height: 89.11px;
+}
+.host-a-party {
+  line-height: 15px;
+  width: 111.62px;
+  height: 15px;
+  flex-shrink: 0;
+}
+.host-a-party,
+.link1,
+.restock-your-pub {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.link1 {
+  background-color: var(--color-darkslategray-300);
+  width: 230px;
+  height: 47px;
+  flex-direction: column;
+}
+.restock-your-pub {
+  position: relative;
+  line-height: 15px;
+  width: 155.06px;
+  height: 15px;
+  flex-shrink: 0;
+}
+.frame2,
+.link2 {
+  height: 47px;
+  display: flex;
+  align-items: center;
+}
+.link2 {
+  background-color: var(--color-white);
+  width: 230px;
+  flex-direction: column;
+  justify-content: center;
+  color: var(--color-darkslategray-100);
+}
+.frame2 {
+  width: 500px;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+  text-align: center;
+  font-size: var(--font-size-mini);
+  color: var(--color-white);
+  font-family: var(--font-bungee);
+}
+.divelementor-widget-wrap1,
+.frame1 {
+  width: 600px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.frame1 {
+  height: 176.11px;
+  overflow: hidden;
+  flex-shrink: 0;
+  align-items: flex-start;
+  gap: var(--gap-20xl);
+}
+.divelementor-widget-wrap1 {
+  height: 587.06px;
+  padding: 31.8798828125px var(--padding-0) 29.88995361328125px;
+  box-sizing: border-box;
+  align-items: center;
+  gap: var(--gap-11xl);
+}
+.hero-beer-bottles-3png-icon {
+  position: relative;
+  width: 450px;
+  height: 587.06px;
+  object-fit: cover;
+}
+.divelementor-container {
+  width: 1200px;
+  height: 587.06px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-131xl);
+}
+.section3 {
+  background-color: var(--color-goldenrod);
+  width: 1440px;
+  height: 787.06px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  z-index: 0;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-dimgray);
+  font-family: var(--font-cairo);
+}
